@@ -17,7 +17,7 @@ The dashboard enables management to:
 
 You can view the **Swiggy Sales & Analysis Dashboard** 
 
-🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJhNDg0ZTktMTUwNC00OWZiLTg0NDgtOWJjM2VkNTFkMDM1IiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg5ODE3YzgtYjE3Ni00ZDE5LTg3ZjUtZmE0NDMwNDI1ZTlhIiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
 
 ---
 
