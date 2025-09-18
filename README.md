@@ -22,7 +22,7 @@ You can view the **Swiggy Sales & Analysis Dashboard**
 ---
 
 ## 📸 Dashboard Preview  
-*(https://github.com/KamalNayanTiwary/Blinkit-Sales-Dashboard----Excel-Power-BI-DAX/blob/main/Snapshot%20of%20the%20Dashboard.png)*  
+(https://github.com/KamalNayanTiwary/Blinkit-Sales-Dashboard----Excel-Power-BI-DAX/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
