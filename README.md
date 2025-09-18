@@ -13,6 +13,14 @@ The dashboard enables management to:
 
 ---
 
+## 📊 Live Dashboard
+
+You can view the **Swiggy Sales & Analysis Dashboard** 
+
+🔗 You can explore it **Live** here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWJhNDg0ZTktMTUwNC00OWZiLTg0NDgtOWJjM2VkNTFkMDM1IiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)
+
+---
+
 ## 📸 Dashboard Preview  
 *(Insert screenshot of the Power BI dashboard here)*  
 
@@ -96,5 +104,15 @@ The final dashboard provides key insights, such as:
 - Raw Blinkit sales data was successfully converted into **a single interactive dashboard**.  
 - The dashboard delivers **actionable insights** for revenue tracking, product performance, and customer demand.  
 - Demonstrates practical use of **Power BI, DAX, and data modeling** for real-world business analytics.  
+
+---
+
+## 👨‍💻 Author  
+
+**Kamal Nayan Tiwary**  
+**Data Analyst**
+
+📧 **kamalnayantiwary73@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kamal-nayan-tiwary-2022-2026-/)  
 
 ---
