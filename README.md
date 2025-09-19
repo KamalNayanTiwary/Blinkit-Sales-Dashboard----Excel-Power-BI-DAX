@@ -46,6 +46,31 @@ To solve this, a **Power BI dashboard** was developed with the following goals:
 
 ---
 
+## 📄 Blinkit Sales Performance Report in PDF
+
+Blinkit is one of India’s fastest-growing quick-commerce delivery platforms, revolutionizing how customers purchase groceries and daily essentials. With its rapid delivery promise, massive order volumes, and rising competition, it becomes essential to track, analyze, and visualize sales performance for better decision-making.
+
+This **Blinkit Business Intelligence Dashboard** was built to:
+- Monitor overall Orders, Revenue, Customers, and Ratings
+- Track City-wise sales performance and top contributing regions
+- Analyze Customer demographics (Age, Gender, Occupation, Marital Status)
+- Compare Category Preferences – Fruits, Vegetables, Beverages, Packaged Goods, and Others
+- Measure Month-over-Month and Year-over-Year growth trends
+- Identify Top 10% loyal customers driving a major share of revenue 
+
+### 🔑 Why Analyze Blinkit Sales Data? 
+- **Revenue Insights** → Identify top-performing categories and low-growth areas 
+- **Customer Understanding** → Discover who the frequent buyers are and their purchase behavior  
+- **Food Category Analysis** → Optimize product mix, pricing, and promotions 
+- **Trend Detection** → Track seasonal demand patterns and business growth
+- **Strategic Planning** → Assist leadership in supply chain, marketing, and expansion decisions
+- **Customer Engagement** → Boost retention by studying loyalty and satisfaction metrics 
+
+📊 By consolidating these insights into **interactive Power BI dashboards**, Blinkit’s stakeholders can make **data-driven decisions** to optimize operations, improve customer experience, and drive sustainable business growth.
+
+➡️ **[Read Full Report Here]()** 
+---
+
 ## ⚙️ Technical Workflow  
 
 ### 🔹 Step 1 – Data Import  
