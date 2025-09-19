@@ -68,7 +68,7 @@ This **Blinkit Business Intelligence Dashboard** was built to:
 
 📊 By consolidating these insights into **interactive Power BI dashboards**, Blinkit’s stakeholders can make **data-driven decisions** to optimize operations, improve customer experience, and drive sustainable business growth.
 
-➡️ **[Read Full Report Here]()** 
+➡️ **[Read Full Report Here](https://github.com/KamalNayanTiwary/Blinkit-Sales-Dashboard----Excel-Power-BI-DAX/blob/main/Blinkit%20Sales%20Report.pdf)** 
 ---
 
 ## ⚙️ Technical Workflow  
